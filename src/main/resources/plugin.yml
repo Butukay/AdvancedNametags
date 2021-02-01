@@ -1,0 +1,7 @@
+name: AdvancedNametags
+version: ${project.version}
+main: com.butukay.advancednametags.AdvancedNametags
+api-version: 1.16
+prefix: AN
+authors: [ Butukay ]
+description: Player names are shown only by rightclicking them
